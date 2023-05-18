@@ -1,5 +1,10 @@
 # semantic-search
-Semantic Search Application
+What is Semantic Search?
+Semantic search is a search technique that aims to understand the meaning behind a user's query and the content of web pages, rather than relying solely on matching keywords. It incorporates natural language processing, machine learning, and other technologies to comprehend the context and intent of the search query.
+
+Semantic search improves search accuracy in several ways:
+
+
 
 This is a simple application that demonstrates semantic search using Pinecone and Cohere. It allows users to enter a query and retrieve the most relevant results from a pre-indexed set of questions.
 Installation
