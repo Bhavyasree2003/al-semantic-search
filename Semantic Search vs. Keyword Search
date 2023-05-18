@@ -1,0 +1,16 @@
+Semantic search and keyword search are two different approaches to information retrieval. Here are the key differences between the two:
+
+Keyword Search:
+----------------
+Keyword search is based on matching specific keywords or phrases entered by the user with the indexed keywords in the content.
+It relies on exact matches and does not consider the context or meaning of the query.
+The search results are often based on relevance to the keywords and the popularity or authority of the content.
+Keyword search is widely used in traditional search engines and involves techniques like indexing, ranking algorithms, and relevance scoring.
+Semantic Search:
+------------------
+Semantic search aims to understand the context, intent, and meaning behind the user's query and the content being searched.
+It goes beyond matching keywords and incorporates natural language processing, machine learning, and other technologies to comprehend the query and content semantics.
+Semantic search considers synonyms, related concepts, entity recognition, and contextual information to provide more relevant search results.
+It focuses on delivering the most accurate and useful results by understanding the user's intent and the broader context of the query.
+Semantic search enables a deeper understanding of the content, facilitates better retrieval of information, and can provide personalized search experiences.
+In summary, while keyword search relies on exact keyword matches and popularity metrics, semantic search goes beyond keywords to understand the meaning, context, and user intent. It leverages natural language processing and other techniques to provide more relevant and accurate search results.
